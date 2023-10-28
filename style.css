@@ -1,21 +1,52 @@
 
 
-#title {
-  text-align: center;
+
+#title {text-align: center;
+  font-size: 60px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 400;
+color:black;}
+
+
+#gmail {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+      }
+
+
+#hotmail {text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: black;}
+
+
+#welcome{text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+color: blue;}
+
+
+#turing{text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
   color:black;
 }
 
-#email {
-    text-align: center;
-    color: black;
-  }
 
-#gmail {
-    text-align: center;
-    color: blue;
-  }
+#studying{text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+color: blue;}
 
-#hotmail {
-    text-align: center;
-    color: blue;
-  }
+
+#links{text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+color: blue;}
+
+
+#sitemap{text-align: center;
+  font-size: 20px;
+color: blue;}
+
+
